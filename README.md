@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @moakintunde
-- 👀 I’m interested in Fullstack Web development, Sales and Leads Generation.
-- 🌱 I’m currently learning Web development, I've got basic knowllegde in Python  
-- 💞️ I’m looking to collaborate on Frontend Development Projects to increase my learning and aid my growth
-- 📫 How to reach me mailto>> mohammed.akintunde05@gmail.com
+- 👋 Hi, I’m Mohammed
+- 👀 I’m interested in FrontEnd Web development and Data Analytics.
+- 🌱 I’m still learning Web development, I've got basic knowllegde in Python  
+- 💞️ I’m looking to collaborate on Web design Projects to aid my learning and growth
+- 📫 Yeah let me in I can create Forms and add links to that page 🥰 mailto>> mohammed.akintunde05@gmail.com
 mobile: (+234)-08137213241
 
 <!---
